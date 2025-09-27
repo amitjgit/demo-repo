@@ -1,4 +1,4 @@
 # demo-repo
 repository for learning
 <br>
-author- amit jain
+author- amit jain (Jain Tutorials)
